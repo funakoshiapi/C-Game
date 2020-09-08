@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="UMLAttribute.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLClass.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLComponent.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLDisplay.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLInheritance.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLInherited.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLName.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLOperation.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLPiece.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLPieceEmitter.cpp">
+      <Filter>UML</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLReader.cpp">
+      <Filter>XML</Filter>
+    </ClCompile>
+    <ClCompile Include="XmlNode.cpp">
+      <Filter>XML</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayTimer.cpp">
+      <Filter>Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectVisitor.cpp">
+      <Filter>Visitor</Filter>
+    </ClCompile>
+    <ClCompile Include="ChildView.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="EndScreen.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="RedPen.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreBoard.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="project1.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="UmlVisitor.cpp">
+      <Filter>Visitor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="UMLAttribute.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLClass.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLComponent.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLDisplay.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLInheritance.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLInherited.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLName.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLOperation.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLPiece.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLPieceEmitter.h">
+      <Filter>UML</Filter>
+    </ClInclude>
+    <ClInclude Include="XMLReader.h">
+      <Filter>XML</Filter>
+    </ClInclude>
+    <ClInclude Include="XmlNode.h">
+      <Filter>XML</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayTimer.h">
+      <Filter>Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectVisitor.h">
+      <Filter>Visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="ChildView.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="EndScreen.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="RedPen.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreBoard.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleBufferDC.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="project1.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="UmlVisitor.h">
+      <Filter>Visitor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\project1.ico">
+      <Filter>Others</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Others</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="UML">
+      <UniqueIdentifier>{8e10791f-076f-46e9-8582-a40f8c6126ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XML">
+      <UniqueIdentifier>{245078da-3d9a-4b70-b45c-658d56541f6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Visitor">
+      <UniqueIdentifier>{8ccf1606-0ac2-41be-b195-9186f22cf351}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{97d1f02e-c05b-4df0-b904-a76f722ae64d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Timer">
+      <UniqueIdentifier>{4c36b85c-d279-4632-8fff-be53671a1e3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Others">
+      <UniqueIdentifier>{3337d0c9-9963-4235-979b-71751e6d4313}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="project1.rc">
+      <Filter>Others</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\project1.rc2">
+      <Filter>Others</Filter>
+    </None>
+  </ItemGroup>
+</Project>

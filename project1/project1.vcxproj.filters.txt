@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ChildView.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="GameObjectVisitor.cpp" />
+    <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="PlayerVisitor.cpp" />
+    <ClCompile Include="project1.cpp" />
+    <ClCompile Include="ScoreBoard.cpp" />
+    <ClCompile Include="UMLAttribute.cpp" />
+    <ClCompile Include="UMLComponent.cpp" />
+    <ClCompile Include="UMLInheritance.cpp" />
+    <ClCompile Include="UMLName.cpp" />
+    <ClCompile Include="UMLOperation.cpp" />
+    <ClCompile Include="UMLPiece.cpp" />
+    <ClCompile Include="UMLPieceEmitter.cpp" />
+    <ClCompile Include="XmlNode.cpp" />
+    <ClCompile Include="XMLReader.cpp" />
+    <ClCompile Include="UmlVisitor.cpp" />
+    <ClCompile Include="UMLDisplay.cpp" />
+    <ClCompile Include="UMLClass.cpp" />
+    <ClCompile Include="UMLInherited.cpp" />
+    <ClCompile Include="EndScreen.cpp" />
+    <ClCompile Include="RedPen.cpp" />
+    <ClCompile Include="PenHandler.cpp" />
+    <ClCompile Include="UMLStruck.cpp" />
+    <ClCompile Include="CountDownTimer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChildView.h" />
+    <ClInclude Include="DoubleBufferDC.h" />
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="GameObjectVisitor.h" />
+    <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="PlayerVisitor.h" />
+    <ClInclude Include="project1.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ScoreBoard.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="UMLAttribute.h" />
+    <ClInclude Include="UMLComponent.h" />
+    <ClInclude Include="UMLInheritance.h" />
+    <ClInclude Include="UMLName.h" />
+    <ClInclude Include="UMLOperation.h" />
+    <ClInclude Include="UMLPiece.h" />
+    <ClInclude Include="UMLPieceEmitter.h" />
+    <ClInclude Include="XmlNode.h" />
+    <ClInclude Include="XMLReader.h" />
+    <ClInclude Include="UmlVisitor.h" />
+    <ClInclude Include="UMLDisplay.h" />
+    <ClInclude Include="UMLClass.h" />
+    <ClInclude Include="UMLInherited.h" />
+    <ClInclude Include="EndScreen.h" />
+    <ClInclude Include="RedPen.h" />
+    <ClInclude Include="PenHandler.h" />
+    <ClInclude Include="UMLStruck.h" />
+    <ClInclude Include="CountDownTimer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="project1.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\project1.ico" />
+    <Image Include="res\Toolbar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\project1.rc2" />
+  </ItemGroup>
+</Project>
